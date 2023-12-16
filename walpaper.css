@@ -1,0 +1,27 @@
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: darkslategrey;
+    font-size: 50px;
+}
+section{
+    
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 80px;
+    background-color: gainsboro;
+    box-shadow: 0 5px 15px;
+    position: sticky;
+    z-index: 1000;
+    top: 0;
+}
+img{
+    height: 300px;
+    width: 480px;
+}
+h2{
+    text-align: center;
+}
+
+
